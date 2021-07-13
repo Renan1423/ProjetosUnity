@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 5c5714c27b7e4954fa76541b42f764c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1034999607245663295
+    second: Crystal - Dashing Angels_0
+  - first:
+      213: 4102516410891945940
+    second: Crystal - Dashing Angels_1
+  - first:
+      213: -4388072375413455749
+    second: Crystal - Dashing Angels_2
+  - first:
+      213: -760017764767986282
+    second: Crystal - Dashing Angels_3
+  - first:
+      213: -7564588389037099356
+    second: Crystal - Dashing Angels_4
+  - first:
+      213: 2297091079740992303
+    second: Crystal - Dashing Angels_5
+  - first:
+      213: 7020696274380402312
+    second: Crystal - Dashing Angels_6
+  - first:
+      213: -5134439248761132731
+    second: Crystal - Dashing Angels_7
+  - first:
+      213: 424750535894742987
+    second: Crystal - Dashing Angels_8
+  - first:
+      213: 7253126704564356150
+    second: Crystal - Dashing Angels_9
+  - first:
+      213: 9031536572152258132
+    second: Crystal - Dashing Angels_10
+  - first:
+      213: 826397269645494318
+    second: Crystal - Dashing Angels_11
+  - first:
+      213: -653554175654386361
+    second: Crystal - Dashing Angels_12
+  - first:
+      213: 5200022491262690389
+    second: Crystal - Dashing Angels_13
+  - first:
+      213: 1730548405195646516
+    second: Crystal - Dashing Angels_14
+  - first:
+      213: 4498095571600669660
+    second: Crystal - Dashing Angels_15
+  - first:
+      213: -8517953209686588646
+    second: Crystal - Dashing Angels_16
+  - first:
+      213: 5744744105969427562
+    second: Crystal - Dashing Angels_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c314734751f2a1f0800000000000000
+      internalID: -1034999607245663295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7cc6c80f01fe830800000000000000
+      internalID: 4102516410891945940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c6ce6c6f6a13c0800000000000000
+      internalID: -4388072375413455749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_3
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8404aedfd375f0800000000000000
+      internalID: -760017764767986282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_4
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6366760fe250790800000000000000
+      internalID: -7564588389037099356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b2ea0aa28e0ef10800000000000000
+      internalID: 2297091079740992303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_6
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e2a5670168e6160800000000000000
+      internalID: 7020696274380402312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_7
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e4c8e4beceb8b0800000000000000
+      internalID: -5134439248761132731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_8
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b92aac5405e500800000000000000
+      internalID: 424750535894742987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_9
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63445702f4848a460800000000000000
+      internalID: 7253126704564356150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_10
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e951749a6765d70800000000000000
+      internalID: 9031536572152258132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_11
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28829430f3f77b00800000000000000
+      internalID: 826397269645494318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_12
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a5ae90fb1ee6f0800000000000000
+      internalID: -653554175654386361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_13
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55421c7a7e03a2840800000000000000
+      internalID: 5200022491262690389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_14
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4362e4e0b94240810800000000000000
+      internalID: 1730548405195646516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_15
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbf30727127c6e30800000000000000
+      internalID: 4498095571600669660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_16
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a138b339fa62ac980800000000000000
+      internalID: -8517953209686588646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal - Dashing Angels_17
+      rect:
+        serializedVersion: 2
+        x: 4398
+        y: 0
+        width: 165
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a3d1d35e69bf40800000000000000
+      internalID: 5744744105969427562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

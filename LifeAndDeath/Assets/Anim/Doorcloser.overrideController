@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Doorcloser
+  m_Controller: {fileID: 9100000, guid: a73712a33acf2f5448eaedb06be90185, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 87534a93ceaa4e0409b05815f91a3051, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7859380b09257f84482c4d24ad49380c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 72222ed56b6f4494b8b45855fb8b0312, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4fcf528c706ffc841a5402d8feaf03c1, type: 2}

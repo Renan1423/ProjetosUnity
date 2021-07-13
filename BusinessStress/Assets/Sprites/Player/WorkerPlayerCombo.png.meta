@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 59628103e41336e4f91dca76d538a23b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3914969479177653256
+    second: WorkerPlayerCombo_0
+  - first:
+      213: 7735544199611385561
+    second: WorkerPlayerCombo_1
+  - first:
+      213: -8563639066272784790
+    second: WorkerPlayerCombo_3
+  - first:
+      213: 4392119179853332261
+    second: WorkerPlayerCombo_4
+  - first:
+      213: 138804952241898134
+    second: WorkerPlayerCombo_5
+  - first:
+      213: -4102728253528353552
+    second: WorkerPlayerCombo_6
+  - first:
+      213: -3336034408522501522
+    second: WorkerPlayerCombo_7
+  - first:
+      213: 4533303589954686704
+    second: WorkerPlayerCombo_8
+  - first:
+      213: -5182052406383391263
+    second: WorkerPlayerCombo_9
+  - first:
+      213: 3211062099166743348
+    second: WorkerPlayerCombo_10
+  - first:
+      213: -1284501527933608564
+    second: WorkerPlayerCombo_12
+  - first:
+      213: -1219136006284220024
+    second: WorkerPlayerCombo_13
+  - first:
+      213: -7151162606439540475
+    second: WorkerPlayerCombo_14
+  - first:
+      213: -1046484278964243082
+    second: WorkerPlayerCombo_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3be17400c3ba9c0800000000000000
+      internalID: -3914969479177653256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68b22077c2a5b60800000000000000
+      internalID: 7735544199611385561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e172e24a7d72980800000000000000
+      internalID: -8563639066272784790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7656af11f3fc30800000000000000
+      internalID: 4392119179853332261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_5
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692817f5e522de100800000000000000
+      internalID: 138804952241898134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_6
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4db7ef36e2017c0800000000000000
+      internalID: -4102728253528353552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_7
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623989616604b1d0800000000000000
+      internalID: -3336034408522501522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_8
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe804ab89789ee30800000000000000
+      internalID: 4533303589954686704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_9
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4f06cac6a518b0800000000000000
+      internalID: -5182052406383391263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_10
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bcd8c57fbff8c20800000000000000
+      internalID: 3211062099166743348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_12
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d121a7aa88c2ee0800000000000000
+      internalID: -1284501527933608564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_13
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8896a84f242c41fe0800000000000000
+      internalID: -1219136006284220024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_14
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 9
+        width: 203
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5095d187f77f1cc90800000000000000
+      internalID: -7151162606439540475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorkerPlayerCombo_15
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 9
+        width: 188
+        height: 151
+      alignment: 9
+      pivot: {x: 0.67, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753e41c7142a71f0800000000000000
+      internalID: -1046484278964243082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

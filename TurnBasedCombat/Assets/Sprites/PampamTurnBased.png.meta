@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 375d6ed5d27eca246879d997d29b035f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5833448911685864850
+    second: PampamTurnBased_0
+  - first:
+      213: -4406927525395865027
+    second: PampamTurnBased_1
+  - first:
+      213: -2984309973190076571
+    second: PampamTurnBased_2
+  - first:
+      213: 8474190876876971609
+    second: PampamTurnBased_3
+  - first:
+      213: 2973713232017369907
+    second: PampamTurnBased_4
+  - first:
+      213: -6453577794599580370
+    second: PampamTurnBased_5
+  - first:
+      213: -9041406980059289094
+    second: PampamTurnBased_6
+  - first:
+      213: -383272905845032815
+    second: PampamTurnBased_7
+  - first:
+      213: 4289563400818102149
+    second: PampamTurnBased_8
+  - first:
+      213: 9216289891250596710
+    second: PampamTurnBased_9
+  - first:
+      213: -8134148318707123857
+    second: PampamTurnBased_10
+  - first:
+      213: -4329183122065299870
+    second: PampamTurnBased_11
+  - first:
+      213: 8202915457978049635
+    second: PampamTurnBased_12
+  - first:
+      213: -8194740477287938089
+    second: PampamTurnBased_13
+  - first:
+      213: 9096785097642674255
+    second: PampamTurnBased_14
+  - first:
+      213: 7881757058642084177
+    second: PampamTurnBased_15
+  - first:
+      213: 8808966564851876601
+    second: PampamTurnBased_16
+  - first:
+      213: -2040040520818692246
+    second: PampamTurnBased_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PampamTurnBased_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62339b2f1d6b0fa0800000000000000
+      internalID: -5833448911685864850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3263e9b3c277d2c0800000000000000
+      internalID: -4406927525395865027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_2
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567995414e99596d0800000000000000
+      internalID: -2984309973190076571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_3
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9b1f44bf5a9570800000000000000
+      internalID: 8474190876876971609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_4
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b264add60c44920800000000000000
+      internalID: 2973713232017369907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_5
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d0b8630394076a0800000000000000
+      internalID: -6453577794599580370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_6
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af924db4148768280800000000000000
+      internalID: -9041406980059289094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_7
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983313a2575eaaf0800000000000000
+      internalID: -383272905845032815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_8
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f874b9f27978b30800000000000000
+      internalID: 4289563400818102149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_9
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be30b73d6d6ef70800000000000000
+      internalID: 9216289891250596710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_10
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69fe116333bd1f80800000000000000
+      internalID: -8134148318707123857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_11
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666ea133e6abe3c0800000000000000
+      internalID: -4329183122065299870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_12
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a75be52c96d170800000000000000
+      internalID: 8202915457978049635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_13
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ccb814fe664e80800000000000000
+      internalID: -8194740477287938089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_14
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480f0779d54e3e70800000000000000
+      internalID: 9096785097642674255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_15
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510a461940a16d60800000000000000
+      internalID: 7881757058642084177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_16
+      rect:
+        serializedVersion: 2
+        x: 5187
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f20a483b6cbf3a70800000000000000
+      internalID: 8808966564851876601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PampamTurnBased_17
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 36
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe23574f150b3e0800000000000000
+      internalID: -2040040520818692246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
