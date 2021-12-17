@@ -1,0 +1,8 @@
+Ortographic Size with Boss: 2.5
+
+Ortographic Size without Boss: 2.25
+
+
+Camera/Grid/Rain/Destroyer Offset with Boss: 2
+
+Camera/Grid/Rain/Destroyer Offset without Boss: 0

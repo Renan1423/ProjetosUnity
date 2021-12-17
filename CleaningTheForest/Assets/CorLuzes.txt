@@ -1,0 +1,5 @@
+Cor de noite (RGB) - 162, 90, 255 / 215, 93, 255
+
+Cor de tarde (RGB) - 255, 216, 136
+
+Cor de manhã (RGB) - 255, 255, 255
