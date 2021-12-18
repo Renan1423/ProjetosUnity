@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5043746687896425851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5043746687896425852}
+  - component: {fileID: 5043746687896425853}
+  - component: {fileID: 5043746687896425850}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: EnemySpawner
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5043746687896425852
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043746687896425851}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5043746687896425853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043746687896425851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 273c7ac5ff6356047a69e2dde9c42690, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Enemies:
+  - {fileID: 1173996713169790005, guid: 1ac2a3c7ac3241e4bb122853f346b203, type: 3}
+  - {fileID: 653450862090242429, guid: 687333da5eed5c94a82db4d9ef05d829, type: 3}
+  - {fileID: 8765939604934010385, guid: bbb5148788990604a921f4aeaf153a6b, type: 3}
+  - {fileID: 2729046600671000622, guid: 13c75d38288073148a47b076f569c664, type: 3}
+  - {fileID: 929340719614287513, guid: b8e8c5d06aead1b4fa30a68492aba240, type: 3}
+  - {fileID: 2755603006853349705, guid: ba43c701f7ed3b04cbf739315b9714ff, type: 3}
+  - {fileID: 2609131765601071531, guid: 490ab5aaa93e585458bc02e31b7e043e, type: 3}
+  - {fileID: 4937994077415203544, guid: 0292091f258888e4db9f5cfcd7f7eabe, type: 3}
+  SpawnRadius: 3.35
+  minNumberOfEnemies: 2
+  maxNumberOfEnemies: 6
+--- !u!58 &5043746687896425850
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5043746687896425851}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 8.02
