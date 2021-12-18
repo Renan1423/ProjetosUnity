@@ -587,6 +587,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PausePanel: {fileID: 0}
   EndPanel: {fileID: 0}
+  EffectsScreen: {fileID: 0}
   transition: {fileID: 110757548}
   transitionTime: 1
 --- !u!1 &914070749
@@ -658,7 +659,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: OBRIGADO POR JOGAR!
+  m_Text: THANKS FOR PLAYING!
 --- !u!222 &914070752
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -736,7 +737,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Criado por Renan Nunes
+  m_Text: Created by Renan Nunes
 --- !u!222 &1013640794
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -814,7 +815,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: SAIR
+  m_Text: EXIT
 --- !u!222 &1114233362
 CanvasRenderer:
   m_ObjectHideFlags: 0

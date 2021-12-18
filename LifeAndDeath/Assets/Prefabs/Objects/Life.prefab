@@ -72,7 +72,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: 3975687336933912303, guid: 5300a642e87c30b449dbfc2f03f17d2b,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -97,7 +97,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab7d1ee7b6adff54dbe4de1146cf33e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Player: {fileID: 0}
   heartSprite: {fileID: 3975687336933912303, guid: 5300a642e87c30b449dbfc2f03f17d2b,
     type: 3}
 --- !u!61 &871511027991593259

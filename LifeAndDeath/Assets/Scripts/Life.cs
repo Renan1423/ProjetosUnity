@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class Life : MonoBehaviour
 {
-    public GameObject Player;
+    private Player Player;
     private SpriteRenderer sprite;
     public Sprite heartSprite;
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
+
+        Player = FindObjectOfType<Player>();
     }
     void Update()
     {

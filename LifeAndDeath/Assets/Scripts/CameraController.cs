@@ -5,7 +5,12 @@ using Cinemachine;
 
 public class CameraController : MonoBehaviour
 {
-    public CinemachineVirtualCamera virtualCamera;
+    private CinemachineVirtualCamera virtualCamera;
+
+    void Start()
+    {
+        virtualCamera = GetComponent<CinemachineVirtualCamera>();    
+    }
 
     public void CameraShake()
     {
