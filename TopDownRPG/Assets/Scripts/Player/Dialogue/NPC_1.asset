@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bae1d1c4fa0436e4588ef0ff65f72e8c, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 0}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: Sr.Pudinzin
+    profile: {fileID: 21300000, guid: 8391c43534924c74e81ee44be14a96f2, type: 3}
+    sentence:
+      portuguese: "S\xF3 vou falar qualquer coisa aqui para poder preencher essa
+        caixa de texto, porque isso daqui \xE9 um teste, mesmo que seja muito prov\xE1vel
+        que voc\xEA j\xE1 tenha percebido isso"
+      english: I'll speak anything here because I have to fufill this text box
+      spanish: "Mano, yo no hablo espa\xF1ol"
+  - actorName: Sr.Pudinzin
+    profile: {fileID: 21300000, guid: 8391c43534924c74e81ee44be14a96f2, type: 3}
+    sentence:
+      portuguese: AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+      english: BBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      spanish: CCCCCCCCCCCCCCCCCCCCCCCCC
