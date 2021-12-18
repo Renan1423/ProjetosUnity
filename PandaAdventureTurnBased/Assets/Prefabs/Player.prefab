@@ -143,6 +143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4659258845048368317}
   - component: {fileID: 1170229656439795474}
+  - component: {fileID: 9141031998976143650}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -182,3 +183,23 @@ MonoBehaviour:
   damage: 20
   maxHP: 100
   currentHP: 100
+--- !u!114 &9141031998976143650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8748195143294032973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcff40dff481075468456955df49ce2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  magics:
+  - Fire
+  - Ice
+  - Thunder
+  magicsIcons:
+  - {fileID: 6126139180988776870, guid: de30f5e5f9153e44eb3415593aa0c1d8, type: 3}
+  - {fileID: -6802495809552059906, guid: de30f5e5f9153e44eb3415593aa0c1d8, type: 3}
+  - {fileID: 3647253407500098972, guid: de30f5e5f9153e44eb3415593aa0c1d8, type: 3}

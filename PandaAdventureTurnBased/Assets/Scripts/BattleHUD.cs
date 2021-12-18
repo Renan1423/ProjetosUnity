@@ -18,6 +18,12 @@ public class BattleHUD : MonoBehaviour
     }
 
     public void SetHP(int hp) {
-        hpSlider.value = hp;
+        if (hp <= 0)
+        {
+            hpSlider.value = 0;
+        }
+        else { 
+            hpSlider.value = hp;
+        }
     }
 }

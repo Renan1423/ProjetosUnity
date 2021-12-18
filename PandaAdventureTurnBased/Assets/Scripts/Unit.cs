@@ -8,12 +8,24 @@ public class Unit : MonoBehaviour
     public int unitLevel;
 
     public int damage;
+    private int dmgCount;
 
     public int maxHP;
     public int currentHP;
 
     public bool TakeDamage(int dmg) {
-        currentHP -= dmg;
+        
+        while (dmgCount < dmg)
+        {
+            currentHP--;
+            dmgCount++;
+            if (dmgCount >= dmg) {
+                dmgCount = 0;
+                break;
+            }
+        }
+
+        //currentHP -= dmg;
 
         if (currentHP <= 0)
         {
